@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Student Details
+=======
+README FILE FOR SMS
+STUDENT MANAGEMENT SYSTEM
+>>>>>>> 4c1b1239ce52962db26c1429a0bbe6043eeaa4c5
